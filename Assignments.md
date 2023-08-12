@@ -1,5 +1,7 @@
 Git and SCM Fundamentals class -
 
+This is wakeel's branch
+
 1. Download and install Git on your machine
 2. Setup your GitHub account
 3. Share your GitHub username with Sagar on whatsapp group
