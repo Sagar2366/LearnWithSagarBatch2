@@ -2,7 +2,7 @@
 
 : '
     Title: Memory USAGE MONITORING
-    AUTHOR: SAGAR UTEKAR
+    AUTHOR: Pranjal Patil
     DATE: 20TH AUGUST, 2023
 '
 
